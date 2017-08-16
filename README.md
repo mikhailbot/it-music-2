@@ -47,8 +47,8 @@ The user edit screen will require the tapping of a card and that user screen wil
 #### User Accounts
 ```json
 {
-  userId: 1234567890,
-  songId: 1
+  "userId": 1234567890,
+  "songId": 1
 }
 
 ```
@@ -56,7 +56,7 @@ The user edit screen will require the tapping of a card and that user screen wil
 #### Songs
 ```json
 {
-  songId: 1,
-  songPath: '/path/to/song.mp3'
+  "songId": 1,
+  "songPath": "/path/to/song.mp3"
 }
 ```
