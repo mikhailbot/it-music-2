@@ -60,3 +60,7 @@ The user edit screen will require the tapping of a card and that user screen wil
   "songPath": "/path/to/song.mp3"
 }
 ```
+
+# Updated
+
+Look to remove Vue
